@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-abstract class AbstractArrayStorageTest {
+abstract class AbstractStorageTest {
     private Storage storage;
 
     private static final String UUID_1 = "uuid1";
@@ -23,7 +23,7 @@ abstract class AbstractArrayStorageTest {
     private static final String UUID_4 = "uuid4";
     private static final Resume RESUME_4 = new Resume(UUID_4);
 
-    AbstractArrayStorageTest(Storage storage) {
+    AbstractStorageTest(Storage storage) {
         this.storage = storage;
     }
 
