@@ -1,4 +1,6 @@
 package com.basejava.webapp.model;
 
-abstract class Section {
+import java.io.Serializable;
+
+abstract class Section implements Serializable {
 }
