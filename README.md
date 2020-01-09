@@ -21,8 +21,6 @@
 
 [*— Илон Маск](https://ru.wikipedia.org/wiki/Маск,_Илон)
 
-# Изучайте [первое открытое занятие](lesson/lesson1.md).
-### Внизу урока есть первое домашнее задание, по которому можно оценить свой уровень готовности к проекту.
 
 ## Программа 
 ### [Регистрация](http://javaops.ru/reg/basejava)
@@ -193,17 +191,3 @@
  - Деплой приложения в облачный сервис Heroku
  - Загрузка классов в Java. Classloader
  - Домашнее задание
-
-## Рекомендуемые книги
-- <a href="http://myflex.org/books/java4kids/java4kids.htm">YAKOV FAIN: Программирование на Java для начинающих</a>
-- <a href="https://habrahabr.ru/post/153373/">Книги по Java: от новичка до профессионала</a>
-- <a href="http://scanlibs.com/java-effektivnoe-programmirovanie-2-e-izdanie">Джошуа Блох: Java. Эффективное программирование, 2-е издание</a>
-- <a href="http://www.labirint.ru/books/87603/">Гамма, Хелм, Джонсон: Приемы объектно-ориентированного проектирования. Паттерны проектирования</a>
-- <a href="http://www.bookvoed.ru/book?id=639284">Редмонд Э.: Семь баз данных за семь недель. Введение в современные базы данных и идеологию NoSQL.</a>
-
-##  Ресуры в сети
-- [EduTools плагин от JetBrains для изучения Kotlin, Java, Python, Scala, ...](http://javaops.ru/view/story/story21#edutools)
-- [Руководство по Java Core](http://proselyte.net/tutorials/java-core/)
-- [Java. Базовый курс (доступен также через плагин JetBrains EduTools)](https://stepik.org/course/Java-Базовый-курс-187)
-- <a href="http://www.intuit.ru/studies/courses/16/16/info">intuit: Программирование на Java</a>
-- <a href="http://sernam.ru/book_java.php">Основы программирования на Java: учебное пособие</a>
